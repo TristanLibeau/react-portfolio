@@ -13,10 +13,10 @@ function ContactCard(props) {
                     <a href="tel:+7147860736" className="ml-4 mt-4 font-weight-bold">Phone</a>
 
                     <a href="mailto:webmaster@jamie.rachael@gmail.com" className="ml-4 mt-4 font-weight-bold">Email</a>
+                    
+                    <a href="https://www.linkedin.com/in/tristan-libeau-78942a210/" className="ml-4 mt-4 font-weight-bold">LinkedIn</a>
 
-                    <a href="https://www.linkedin.com/in/jamie-rachael-morris/" className="ml-4 mt-4 font-weight-bold">LinkedIn</a>
-
-                    <a href="https://github.com/jamierachael" className="ml-4 mt-4 font-weight-bold">GitHub</a>
+                    <a href="https://github.com/TristanLibeau" className="ml-4 mt-4 font-weight-bold">GitHub</a>
 
                     <img src={ContactPNG} alt="profile-photo" className="profile float-left"></img>
                 </div>
