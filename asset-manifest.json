@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.e71103be.chunk.css",
-    "main.js": "/static/js/main.a094a1ab.chunk.js",
-    "main.js.map": "/static/js/main.a094a1ab.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dc33665e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dc33665e.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.06025b67.chunk.js": "/static/js/2.06025b67.chunk.js",
-    "static/js/2.06025b67.chunk.js.map": "/static/js/2.06025b67.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.e71103be.chunk.css.map": "/static/css/main.e71103be.chunk.css.map",
-    "static/js/2.06025b67.chunk.js.LICENSE.txt": "/static/js/2.06025b67.chunk.js.LICENSE.txt",
-    "static/media/Profile.fa5e8c05.jpg": "/static/media/Profile.fa5e8c05.jpg",
-    "static/media/contact.a3e1835e.png": "/static/media/contact.a3e1835e.png",
-    "static/media/index.css": "/static/media/pano-dam.62fb02b4.jpg",
-    "static/media/resume.913c0d32.png": "/static/media/resume.913c0d32.png"
+    "main.css": "/react-portfolio/static/css/main.ad95e8b7.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.a094a1ab.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.a094a1ab.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.7530632e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7530632e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/react-portfolio/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.06025b67.chunk.js": "/react-portfolio/static/js/2.06025b67.chunk.js",
+    "static/js/2.06025b67.chunk.js.map": "/react-portfolio/static/js/2.06025b67.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/react-portfolio/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ad95e8b7.chunk.css.map": "/react-portfolio/static/css/main.ad95e8b7.chunk.css.map",
+    "static/js/2.06025b67.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.06025b67.chunk.js.LICENSE.txt",
+    "static/media/Profile.fa5e8c05.jpg": "/react-portfolio/static/media/Profile.fa5e8c05.jpg",
+    "static/media/contact.a3e1835e.png": "/react-portfolio/static/media/contact.a3e1835e.png",
+    "static/media/index.css": "/react-portfolio/static/media/pano-dam.62fb02b4.jpg",
+    "static/media/resume.913c0d32.png": "/react-portfolio/static/media/resume.913c0d32.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc33665e.js",
+    "static/js/runtime-main.7530632e.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.06025b67.chunk.js",
-    "static/css/main.e71103be.chunk.css",
+    "static/css/main.ad95e8b7.chunk.css",
     "static/js/main.a094a1ab.chunk.js"
   ]
 }
