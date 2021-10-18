@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Group Project 1",
-    "image": "https://github.com/TristanLibeau/react-portfolio/blob/master/src/assets/group-project-1.png?raw=true",
+    "image": "https://github.com/TristanLibeau/react-portfolio/blob/main/src/assets/group-project-1.png?raw=true",
     "project": "Mood Tracking App",
     "location": "https://radiant-plains-19401.herokuapp.com/"
   },
