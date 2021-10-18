@@ -10,7 +10,7 @@ function ContactCard(props) {
             <div className="card">
                 <h1 className="text-center">Contact Me</h1>
                 <div className="card-content">
-                    <a href="tel:+7147860736" className="ml-4 mt-4 font-weight-bold">Phone</a>
+                    <a href="tel:0451962593" className="ml-4 mt-4 font-weight-bold">Phone</a>
 
                     <a href="mailto:webmaster@jamie.rachael@gmail.com" className="ml-4 mt-4 font-weight-bold">Email</a>
                     
