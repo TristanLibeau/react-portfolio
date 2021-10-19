@@ -19,26 +19,13 @@ function AboutCard() {
                     <p>I began to find myself more intrigued and wished to learn more about the Software side of computing and this led to my interest in the field of Web Development and coding. 
                             There was something truly enticing about creating a program and the conceptual framework of interacting with a computer on the most fundamental level in order to create an application with intuitive and practical purpose. 
                             The more that I learn, the more passionate I become and my initial goal upon completion of my studies is to find a Job as a Junior Developer in a Software Company where I can begin to flourish as a Developer and to work on projects as a part of a large scale team with a uniform.</p>
-
-                    <p>
-                        I am interested in learning about new opportunities and can
-                        be reached
-                        through this portfolio, by
-                        email:
-                                                <a href="mailto:tristan.libeau@gmail.com"
-                            target="_blank">tristan.libeau@gmail.com, </a> through<a
-                                href="https://github.com/TristanLibeau" target='_blank'> GitHub</a>, or through <a
-                                    href="https://www.linkedin.com/in/tristan-libeau-78942a210/" target='_blank'>
-                            LinkedIn.</a>
-                        Cheers!
-
-                                                </p>
+                    <p>I am interested in learning about new opportunities and can be reached through this portfolio, by email: <a href="mailto:tristan.libeau@gmail.com" target="_blank">tristan.libeau@gmail.com, </a> through<a href="https://github.com/TristanLibeau" target='_blank'> GitHub</a>, or through <a href="https://www.linkedin.com/in/tristan-libeau-78942a210/" target='_blank'>LinkedIn.</a> Cheers! </p>
                 </div>
 
-                <div className="card-body contactLinks">
+                {/* <div className="card-body contactLinks">
                     <a href="https://www.linkedin.com/in/tristan-libeau-78942a210/" target='_blank' className="card-link">LinkedIn</a>
                     <a href="https://github.com/TristanLibeau" target='_blank' className="card-link">GitHub</a>
-                </div>
+                </div> */}
             </div>
             {/* end copy paste  */}
         </div>
