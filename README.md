@@ -43,7 +43,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 * The following image shows the final application
 
-![alt text](./img/Budget-Tracker.png)
+![alt text](./src/assets/mock-up.png)
 
 ## Credits
 
